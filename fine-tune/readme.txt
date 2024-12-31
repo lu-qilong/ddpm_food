@@ -1,0 +1,2 @@
+权重文件是model_epoch_199_origin_128_32.pth
+用来微调的三张牛舌饼图片在niushe文件夹中
